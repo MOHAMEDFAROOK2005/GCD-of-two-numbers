@@ -16,14 +16,20 @@ To write a program to find the GCD of two numbers using function.
 ## Program:
 ```
 /*
-Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
+#Program to find the distance between two points.
+#Developed by: MOHAMED FAROOK S
+#RegisterNumber:23014058
+import math 
+x1,y1=10,6
+x2,y2=4,2
+d=math.sqrt((x2-x1)**2+(y2-y1)**2)
+print("{:.2f}".format(d)) 
 */
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![image](https://github.com/AkilaMohan/GCD-of-two-numbers/assets/150319482/fc855ae5-8ae0-458d-93c8-29d1f5367a74)
+
 
 
 ## Result:
